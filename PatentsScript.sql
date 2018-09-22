@@ -1,6 +1,3 @@
--- Name: David sabag
---ID: 300675337
-
 drop table Patents;
 drop table Clients;
 drop table Lawyers;

@@ -1,7 +1,3 @@
---David Sabag 300675337
---Yakir Cohen 032519308
-
-/*q.1*/
 SET SERVEROUTPUT ON
 declare
       cat number;

@@ -1,6 +1,3 @@
--- Name: David Sabag
---ID: 300675337
-
 drop table Docking;
 drop table Piers;
 drop table Ships;
