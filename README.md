@@ -1,1 +1,1 @@
-# SQL-PLSQL
+My work wirting complex queries, procedure and blocks in sql and plsql such as nested queries, views, triggers, cursors and functions.
